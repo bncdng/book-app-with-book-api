@@ -1,0 +1,30 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  text-align: start;
+  width: 500px;
+}
+
+img {
+  width: 50px;
+}
+
+td, tr {
+  display: flex;
+  justify-content: start;
+}
+
+
